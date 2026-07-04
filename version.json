@@ -1,19 +1,19 @@
 {
-  "version": "2.4.3",
-  "release_notes": "Phone Reseller CRM 2.4.3 is ready. Open Settings \u2192 Software Update \u2192 Install update. Your Data folder is kept.",
-  "page_url": "https://github.com/HeavyGod-hehe/MobileCRM-releases/releases/tag/v2.4.3",
+  "version": "2.4.4",
+  "release_notes": "Phone Reseller CRM 2.4.4 is ready. Open Settings \u2192 Software Update \u2192 Install update. Your Data folder is kept.",
+  "page_url": "https://github.com/HeavyGod-hehe/MobileCRM-releases/releases/tag/v2.4.4",
   "downloads": {
     "windows": {
-      "url": "https://github.com/HeavyGod-hehe/MobileCRM-releases/releases/download/v2.4.3/PhoneResellerCRM-Windows-2.4.3.zip"
+      "url": "https://github.com/HeavyGod-hehe/MobileCRM-releases/releases/download/v2.4.4/PhoneResellerCRM-Windows-2.4.4.zip"
     },
     "mac_intel": {
-      "url": "https://github.com/HeavyGod-hehe/MobileCRM-releases/releases/download/v2.4.3/PhoneResellerCRM-IntelMac-2.4.3.zip"
+      "url": "https://github.com/HeavyGod-hehe/MobileCRM-releases/releases/download/v2.4.4/PhoneResellerCRM-IntelMac-2.4.4.zip"
     },
     "mac_arm64": {
-      "url": "https://github.com/HeavyGod-hehe/MobileCRM-releases/releases/download/v2.4.3/PhoneResellerCRM-AppleSilicon-2.4.3.zip"
+      "url": "https://github.com/HeavyGod-hehe/MobileCRM-releases/releases/download/v2.4.4/PhoneResellerCRM-AppleSilicon-2.4.4.zip"
     },
     "mac_universal": {
-      "url": "https://github.com/HeavyGod-hehe/MobileCRM-releases/releases/download/v2.4.3/PhoneResellerCRM-UniversalMac-2.4.3.zip"
+      "url": "https://github.com/HeavyGod-hehe/MobileCRM-releases/releases/download/v2.4.4/PhoneResellerCRM-UniversalMac-2.4.4.zip"
     }
   }
 }
